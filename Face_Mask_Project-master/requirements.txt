@@ -1,0 +1,7 @@
+tensorflow(open source library for machine learning)
+numpy(python library used for arrays)
+imutils(functions to make basic image processing functions)
+keras(to train the models using machine learning)
+opencv-python
+scipy
+matplotlib
